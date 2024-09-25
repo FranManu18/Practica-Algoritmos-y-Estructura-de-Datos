@@ -1,0 +1,1 @@
+En este repostiroio se encuentran todos los trabajos practicos resueltos de la materia
